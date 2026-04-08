@@ -1,0 +1,1 @@
+This project shouw how to work with github action for a dockerized Flask App
