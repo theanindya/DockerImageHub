@@ -1,1 +1,1 @@
-This project shouw how to work with github action for a dockerized Flask App
+This project shows how to work with github action for a dockerized Flask App
